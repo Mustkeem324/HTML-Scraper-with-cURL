@@ -1,7 +1,3 @@
-Certainly! Here's a sample README.md message for your PHP script:
-
----
-
 # HTML Scraper with cURL
 
 This PHP script is designed to scrape HTML content from a specified URL using cURL. It checks if the URL parameter is provided via a GET request, then retrieves the content from the URL if it matches a predefined domain (`wegglab.com` in this case). If the content contains a specific marker (`entry-content clear`), it saves the HTML content to a file in a designated folder (`wegglabhtml`) for future reference.
@@ -29,7 +25,3 @@ http://example.com/html_scraper.php?url=https://wegglab.com/sample-page
 ## Disclaimer
 
 This script is provided as-is without any warranties. Use it responsibly and respect the terms of service of the websites you are scraping.
-
----
-
-Feel free to adjust the content according to your specific needs and add any additional information you deem necessary.
